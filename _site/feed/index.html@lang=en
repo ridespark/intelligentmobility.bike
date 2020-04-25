@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Intelligent Mobility</title>
-	<atom:link href="http://intelligentmobility.bike/feed/?lang=en" rel="self" type="application/rss+xml" />
-	<link>http://intelligentmobility.bike/?lang=en</link>
+	<atom:link href="https://intelligentmobility.bike/feed/?lang=en" rel="self" type="application/rss+xml" />
+	<link>https://intelligentmobility.bike/?lang=en</link>
 	<description>Movilidad sostenible</description>
 	<lastBuildDate>Mon, 04 Nov 2019 17:59:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.2.5</generator>
 
 <image>
-	<url>http://intelligentmobility.bike/wp-content/uploads/2019/08/favicon-50x50.png</url>
+	<url>https://intelligentmobility.bike/wp-content/uploads/2019/08/favicon-50x50.png</url>
 	<title>Intelligent Mobility</title>
-	<link>http://intelligentmobility.bike/?lang=en</link>
+	<link>https://intelligentmobility.bike/?lang=en</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>40% discount on the mobility programs development</title>
-		<link>http://intelligentmobility.bike/aprovecha-el-plan-moves/?lang=en</link>
+		<link>https://intelligentmobility.bike/aprovecha-el-plan-moves/?lang=en</link>
 				<pubDate>Mon, 04 Nov 2019 17:41:08 +0000</pubDate>
 		<dc:creator><![CDATA[asier]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/aprovecha-el-plan-moves/</guid>
-				<description><![CDATA[Plan Moves, ayuda para el desarrollo de programas de movilidad sostenible. Descuento de hasta el 40% en los productos y servicios que ofrece Intelligent Mobility<div><a href="http://intelligentmobility.bike/aprovecha-el-plan-moves/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/aprovecha-el-plan-moves/</guid>
+				<description><![CDATA[Plan Moves, ayuda para el desarrollo de programas de movilidad sostenible. Descuento de hasta el 40% en los productos y servicios que ofrece Intelligent Mobility<div><a href="https://intelligentmobility.bike/aprovecha-el-plan-moves/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[
 <p>The Council of Ministers, at the proposal of the Ministry for the Ecological Transition, has approved Royal Decree 132/2019, of 8 March, which grants direct aid from the Programme of Incentives for Efficient and Sustainable Mobility (MOVES), which regulates the bases of the Programme of Incentives for Efficient and Sustainable Mobility (MOVES), endowed with 45 million euros and aimed at:</p>
 
@@ -62,13 +62,13 @@
 										</item>
 		<item>
 		<title>Intelligent Mobility on TV: La Sexta and Tele5 showcase our mobility solutions</title>
-		<link>http://intelligentmobility.bike/intelligent-mobility-en-television-la-sexta-y-telecinco-muestran-nuestras-soluciones-de-movilidad/?lang=en</link>
+		<link>https://intelligentmobility.bike/intelligent-mobility-en-television-la-sexta-y-telecinco-muestran-nuestras-soluciones-de-movilidad/?lang=en</link>
 				<pubDate>Thu, 24 Oct 2019 17:29:29 +0000</pubDate>
 		<dc:creator><![CDATA[asier]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/?p=6215</guid>
-				<description><![CDATA[Telecinco and La Sexta approached Intelligent Mobility&#8217;s stand at Trafic to find out more about our solutions for urban mobility. Telecinco had the participation of Lalo Blanes, who showed our<div><a href="http://intelligentmobility.bike/intelligent-mobility-en-television-la-sexta-y-telecinco-muestran-nuestras-soluciones-de-movilidad/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/?p=6215</guid>
+				<description><![CDATA[Telecinco and La Sexta approached Intelligent Mobility&#8217;s stand at Trafic to find out more about our solutions for urban mobility. Telecinco had the participation of Lalo Blanes, who showed our<div><a href="https://intelligentmobility.bike/intelligent-mobility-en-television-la-sexta-y-telecinco-muestran-nuestras-soluciones-de-movilidad/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[
 <p>Telecinco and La Sexta approached Intelligent Mobility&#8217;s stand at Trafic to find out more about our solutions for urban mobility.</p>
 
@@ -103,13 +103,13 @@
 										</item>
 		<item>
 		<title>E. Puebla: &#8220;We solve the main problems of sustainable mobility that cities have&#8221;.</title>
-		<link>http://intelligentmobility.bike/e-puebla-solucionamos-los-principales-problemas-de-movilidad-sostenible-que-tienen-las-ciudades/?lang=en</link>
+		<link>https://intelligentmobility.bike/e-puebla-solucionamos-los-principales-problemas-de-movilidad-sostenible-que-tienen-las-ciudades/?lang=en</link>
 				<pubDate>Wed, 02 Oct 2019 17:04:02 +0000</pubDate>
 		<dc:creator><![CDATA[asier]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/?p=6197</guid>
-				<description><![CDATA[Hablamos de movilidad sostenible con Eusebi Puebla, co fundador de Intelligent Mobility<div><a href="http://intelligentmobility.bike/e-puebla-solucionamos-los-principales-problemas-de-movilidad-sostenible-que-tienen-las-ciudades/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/?p=6197</guid>
+				<description><![CDATA[Hablamos de movilidad sostenible con Eusebi Puebla, co fundador de Intelligent Mobility<div><a href="https://intelligentmobility.bike/e-puebla-solucionamos-los-principales-problemas-de-movilidad-sostenible-que-tienen-las-ciudades/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[
 <ul><li><strong>The co-founder of Intelligent Mobility has been advising municipalities and companies on the best sustainable mobility solutions for decades.</strong></li><li><strong>Sebi Presents at Ifema the self-managed parking solution for scooters, which avoids 75% of the costs to the service operator.</strong></li></ul>
 
@@ -196,13 +196,13 @@
 										</item>
 		<item>
 		<title>Get to know in Trafic&#8217;19 the parking lot for electric scooters that organises the cities</title>
-		<link>http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/?lang=en</link>
+		<link>https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/?lang=en</link>
 				<pubDate>Wed, 02 Oct 2019 09:05:12 +0000</pubDate>
 		<dc:creator><![CDATA[asier]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/</guid>
-				<description><![CDATA[Se trata de una estructura única en el mercado, que ayuda a estructurar las ciudades y reduce muchísimo los costes de la empresa adjudicataria. This is a unique structure in<div><a href="http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/</guid>
+				<description><![CDATA[Se trata de una estructura única en el mercado, que ayuda a estructurar las ciudades y reduce muchísimo los costes de la empresa adjudicataria. This is a unique structure in<div><a href="https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[
 <p><strong>Se trata de una estructura única en el mercado, que ayuda a estructurar las ciudades y reduce muchísimo los costes de la empresa adjudicataria.</strong></p>
 
@@ -280,18 +280,18 @@
 
 
 
-<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1024x551.jpg"><img src="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1024x551.jpg" alt="" data-id="6081" data-link="http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_01/" class="wp-image-6081" srcset="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1024x551.jpg 1024w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-300x161.jpg 300w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-768x413.jpg 768w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1160x624.jpg 1160w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-93x50.jpg 93w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-650x349.jpg 650w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1000x538.jpg 1000w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1024x551.jpg"><img src="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1024x551.jpg" alt="" data-id="6082" data-link="http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_02/" class="wp-image-6082" srcset="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1024x551.jpg 1024w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-300x161.jpg 300w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-768x413.jpg 768w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1160x624.jpg 1160w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-93x50.jpg 93w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-650x349.jpg 650w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1000x538.jpg 1000w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1024x551.jpg"><img src="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1024x551.jpg" alt="" data-id="6083" data-link="http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_03/" class="wp-image-6083" srcset="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1024x551.jpg 1024w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-300x161.jpg 300w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-768x413.jpg 768w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1160x624.jpg 1160w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-93x50.jpg 93w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-650x349.jpg 650w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1000x538.jpg 1000w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1024x551.jpg"><img src="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1024x551.jpg" alt="" data-id="6084" data-link="http://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_04/" class="wp-image-6084" srcset="http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1024x551.jpg 1024w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-300x161.jpg 300w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-768x413.jpg 768w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1160x624.jpg 1160w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-93x50.jpg 93w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-650x349.jpg 650w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1000x538.jpg 1000w, http://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li></ul>
+<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1024x551.jpg"><img src="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1024x551.jpg" alt="" data-id="6081" data-link="https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_01/" class="wp-image-6081" srcset="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1024x551.jpg 1024w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-300x161.jpg 300w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-768x413.jpg 768w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1160x624.jpg 1160w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-93x50.jpg 93w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-650x349.jpg 650w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-1000x538.jpg 1000w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_01-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1024x551.jpg"><img src="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1024x551.jpg" alt="" data-id="6082" data-link="https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_02/" class="wp-image-6082" srcset="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1024x551.jpg 1024w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-300x161.jpg 300w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-768x413.jpg 768w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1160x624.jpg 1160w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-93x50.jpg 93w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-650x349.jpg 650w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-1000x538.jpg 1000w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_02-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1024x551.jpg"><img src="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1024x551.jpg" alt="" data-id="6083" data-link="https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_03/" class="wp-image-6083" srcset="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1024x551.jpg 1024w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-300x161.jpg 300w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-768x413.jpg 768w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1160x624.jpg 1160w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-93x50.jpg 93w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-650x349.jpg 650w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-1000x538.jpg 1000w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_03-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1024x551.jpg"><img src="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1024x551.jpg" alt="" data-id="6084" data-link="https://intelligentmobility.bike/conoce-en-trafic19-el-parking-para-patinete-electrico-que-pone-las-ciudades-en-orden/190830_04/" class="wp-image-6084" srcset="https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1024x551.jpg 1024w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-300x161.jpg 300w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-768x413.jpg 768w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1160x624.jpg 1160w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-93x50.jpg 93w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-650x349.jpg 650w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-1000x538.jpg 1000w, https://intelligentmobility.bike/wp-content/uploads/2019/10/190830_04-50x27.jpg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure></li></ul>
 ]]></content:encoded>
 										</item>
 		<item>
 		<title>Cycle tourism 4.0</title>
-		<link>http://intelligentmobility.bike/tourism-4-0/?lang=en</link>
+		<link>https://intelligentmobility.bike/tourism-4-0/?lang=en</link>
 				<pubDate>Tue, 03 Sep 2019 17:40:55 +0000</pubDate>
 		<dc:creator><![CDATA[kikotoa]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/turismo-4-0/</guid>
-				<description><![CDATA[<div><a href="http://intelligentmobility.bike/tourism-4-0/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/turismo-4-0/</guid>
+				<description><![CDATA[<div><a href="https://intelligentmobility.bike/tourism-4-0/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[<div  class="tatsu-HkW6-_Q3BS tatsu-section  tatsu-bg-overlay   tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"90px 0px 90px 0px"}' data-padding-top='90px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-Byx6bu73BS" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-bg-overlay tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-Sya-_X3rH"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-BJuOXeruH  "><div class="tatsu-text-inner tatsu-align-center  clearfix" ><style>.tatsu-BJuOXeruH.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;text-align: left;}</style><p><span style="color: #676767;">Tourism is the economic sector that makes the greatest contribution to Spain&#8217;s GDP and employment, with high growth rates. Tourism contributes 176,000 million euros annually, representing 14.6% of Spanish GDP, in addition to 2.8 million jobs, according to the latest report prepared by the business association World Travel &amp; Tourism Council (WTTC).</span></p>
 <p><span style="color: #676767;">However, tourism is a sector in constant evolution, which is directly affected by technological development and the adoption of new technologies by companies and users.</span></p>
 <p><span style="color: #676767;">In the same way, the increasing social sensitivity to aspects such as respect for the environment, and sustainability on the part of society, cause a tourist flow that takes into account previously irrelevant aspects.</span></p>
@@ -322,13 +322,13 @@
 										</item>
 		<item>
 		<title>Santander installs Intelligent Mobility secure bike racks</title>
-		<link>http://intelligentmobility.bike/santander-installs-intelligent-mobility-secure-bike-racks/?lang=en</link>
+		<link>https://intelligentmobility.bike/santander-installs-intelligent-mobility-secure-bike-racks/?lang=en</link>
 				<pubDate>Fri, 12 Jul 2019 07:26:14 +0000</pubDate>
 		<dc:creator><![CDATA[lauragil]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/by-2030-every-person-in-the-planet-will-have-a-smartphone/</guid>
-				<description><![CDATA[By combining beautiful designs &#38; layouts with powerful options, Oshine lets you build any kind of website starting from simple portfolio websites to full blown ecommerce<div><a href="http://intelligentmobility.bike/santander-installs-intelligent-mobility-secure-bike-racks/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/by-2030-every-person-in-the-planet-will-have-a-smartphone/</guid>
+				<description><![CDATA[By combining beautiful designs &#38; layouts with powerful options, Oshine lets you build any kind of website starting from simple portfolio websites to full blown ecommerce<div><a href="https://intelligentmobility.bike/santander-installs-intelligent-mobility-secure-bike-racks/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[<p><div  class="tatsu-BJWbacMyBX tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"90px 0px 90px 0px"}' data-padding-top='90px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-Hyeb6qzkS7" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-H1ZacGySQ"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-inline-text clearfix tatsu-HyWpgF8B7   " ><style>.tatsu-HyWpgF8B7 .tatsu-inline-text-inner{width: 100%;text-align: left;}.tatsu-HyWpgF8B7.tatsu-inline-text{margin: 0px 0px 50px 0px ;}</style><div class="tatsu-inline-text-inner tatsu-align-center"></p>
 <p class="MsoNormal">Intelligent Parking has installed in the Plaza de las Estaciones in Santander its closed bicycle parking. Users will be able to make use of this service through the mobile application.</p>
 <p class="MsoNormal">The Cantabrian car park will have a capacity for 14 bicycles. The municipal officials who have entrusted the project to Intelligent Mobility indicate that their intention is to promote sustainable mobility in the city centre, offering rotational parking for cyclists at different points.</p>
@@ -341,13 +341,13 @@
 										</item>
 		<item>
 		<title>Pamplona provides 500 parking spaces for bicycles</title>
-		<link>http://intelligentmobility.bike/pamplona-provides-500-parking-spaces-for-bicycles/?lang=en</link>
+		<link>https://intelligentmobility.bike/pamplona-provides-500-parking-spaces-for-bicycles/?lang=en</link>
 				<pubDate>Thu, 22 Nov 2018 08:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[lauragil]]></dc:creator>
 				<category><![CDATA[IM on mass media]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/places-you-need-to-visit-before-you-get-married/</guid>
-				<description><![CDATA[Tourist attractions frequent flyer Tripit private jet. Insurance New York City Asia translation Pacific active lifestyle package currency couchsurfing adventure group discount Vienna park outdoor. <div><a href="http://intelligentmobility.bike/pamplona-provides-500-parking-spaces-for-bicycles/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/places-you-need-to-visit-before-you-get-married/</guid>
+				<description><![CDATA[Tourist attractions frequent flyer Tripit private jet. Insurance New York City Asia translation Pacific active lifestyle package currency couchsurfing adventure group discount Vienna park outdoor. <div><a href="https://intelligentmobility.bike/pamplona-provides-500-parking-spaces-for-bicycles/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[<p><div  class="tatsu-Hy-D1fm1UX tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"90px 0px 90px 0px"}' data-padding-top='90px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-Hkxw1f7k8m" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-B1vkG7JIX"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-inline-text clearfix tatsu-rkSNKee8X   " ><style>.tatsu-rkSNKee8X .tatsu-inline-text-inner{width: 100%;text-align: left;}</style><div class="tatsu-inline-text-inner tatsu-align-center"></p>
 <p class="MsoNormal">Pamplona City Council is going to promote a network of rotating and safe bicycle car parks throughout the city, which will be available to all users who wish to do so.</p>
 <p class="MsoNormal">These are modular, covered car parks with a P Verde access control system and interior video surveillance.</p>
@@ -360,13 +360,13 @@
 										</item>
 		<item>
 		<title>Electric bicycles for cruisers in Valencia</title>
-		<link>http://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/?lang=en</link>
+		<link>https://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/?lang=en</link>
 				<pubDate>Tue, 24 Jul 2018 06:25:58 +0000</pubDate>
 		<dc:creator><![CDATA[lauragil]]></dc:creator>
 				<category><![CDATA[Actuality]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/bicicletas-electricas-para-los-cruceristas-en-valencia/</guid>
-				<description><![CDATA[The web has become complicated with a lot of intrusion on personal data. Thus several countries have stepped up regulations on how companies can use the data of their users.<div><a href="http://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/bicicletas-electricas-para-los-cruceristas-en-valencia/</guid>
+				<description><![CDATA[The web has become complicated with a lot of intrusion on personal data. Thus several countries have stepped up regulations on how companies can use the data of their users.<div><a href="https://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[<p><div  class="tatsu-By-108BeI7 tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"90px 0px 90px 0px"}' data-padding-top='90px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-SkxJRLSxI7" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-rJk08SlUm"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-SJlm4xH_S  "><div class="tatsu-text-inner tatsu-align-center  clearfix" ><style>.tatsu-SJlm4xH_S.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;text-align: left;}</style></p>
 <p><span style="color: #9e9e9e;">The port of Valencia has developed a pilot project with Intelligent Mobility that allows cruise passengers arriving in large ships to have a quick, simple and ecological way of going around the city centre. Thus, ValenciaPort has enabled the first 10 electric vehicles as a test.</span></p>
 <p><span style="color: #9e9e9e;">The bicycle collection station is installed in front of the Port Authority Building and next to the Trasmediterránea passenger terminal. In this way, it facilitates the harbour-city connection for the thousands of cruise passengers who arrive during the year in the capital of Turia from the waters of the Mediterranean.</span></p>
@@ -377,13 +377,13 @@
 										</item>
 		<item>
 		<title>Intelligent Mobility, at the SUM in Bilbao</title>
-		<link>http://intelligentmobility.bike/a-fully-visual-way-to-build-websites-using-wordpress/?lang=en</link>
+		<link>https://intelligentmobility.bike/a-fully-visual-way-to-build-websites-using-wordpress/?lang=en</link>
 				<pubDate>Tue, 24 Jul 2018 06:00:51 +0000</pubDate>
 		<dc:creator><![CDATA[lauragil]]></dc:creator>
 				<category><![CDATA[Events]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/a-fully-visual-way-to-build-websites-using-wordpress/</guid>
-				<description><![CDATA[A Powerful and Elegant live front end page builder for WordPress, that comes with 50+ styling modules, a live text editor and pre-built concepts. It makes building web pages a breeze and is loved by newbies and pros alike.<div><a href="http://intelligentmobility.bike/a-fully-visual-way-to-build-websites-using-wordpress/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/a-fully-visual-way-to-build-websites-using-wordpress/</guid>
+				<description><![CDATA[A Powerful and Elegant live front end page builder for WordPress, that comes with 50+ styling modules, a live text editor and pre-built concepts. It makes building web pages a breeze and is loved by newbies and pros alike.<div><a href="https://intelligentmobility.bike/a-fully-visual-way-to-build-websites-using-wordpress/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[<p><div  class="tatsu-fu9k1vcc7v5148ho tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"90px 0px 90px 0px"}' data-padding-top='90px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-fu9k1vccei4od1l3" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-fu9k1vccltbqhm2t"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-inline-text clearfix tatsu-fu9k1vccrc48u0ub   " ><style>.tatsu-fu9k1vccrc48u0ub .tatsu-inline-text-inner{width: 100%;text-align: left;}.tatsu-fu9k1vccrc48u0ub.tatsu-inline-text{margin: 0px 0px 50px 0px ;}</style><div class="tatsu-inline-text-inner tatsu-align-center"></p>
 <p class="MsoNormal">Sebi Puebla and Bartolomé Navarro, on behalf of Intelligent Mobility, presented the IoT project applied to mobility at the SUM festival in Bilbao. IM also installed two intelligent car parks that covered all those users who cycled to the event.</p>
 <p>SUM is a fair organised by the Bilbao City Council, a world reference city in urban transformation processes, and Petronor, an energy company committed to the economic and social development of the Basque Country. More than 40 speakers, including representatives of Intelligent Parking, debated on strategic aspects for the construction and consolidation of sustainable urban mobility systems, around three thematic axes: public policies, technology and innovation and opportunities for development.</p>
@@ -392,13 +392,13 @@
 										</item>
 		<item>
 		<title>Intelligent Mobility, at the II Congress of the International Network of Michelin Cities</title>
-		<link>http://intelligentmobility.bike/intelligent-mobility-at-the-ii-congress-of-the-international-network-of-michelin-cities/?lang=en</link>
+		<link>https://intelligentmobility.bike/intelligent-mobility-at-the-ii-congress-of-the-international-network-of-michelin-cities/?lang=en</link>
 				<pubDate>Sat, 24 Mar 2018 08:25:43 +0000</pubDate>
 		<dc:creator><![CDATA[lauragil]]></dc:creator>
 				<category><![CDATA[Events]]></category>
 
-		<guid isPermaLink="false">http://intelligentmobility.bike/intelligent-mobility-en-el-ii-congreso-de-la-red-internacional-de-ciudades-michelin/</guid>
-				<description><![CDATA[Burn rate iteration leverage partnership client bootstrapping advisor long tail market metrics startup incubator branding mass market.  Infographic success growth hacking traction startup pitch twitter hackathon.<div><a href="http://intelligentmobility.bike/intelligent-mobility-at-the-ii-congress-of-the-international-network-of-michelin-cities/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
+		<guid isPermaLink="false">https://intelligentmobility.bike/intelligent-mobility-en-el-ii-congreso-de-la-red-internacional-de-ciudades-michelin/</guid>
+				<description><![CDATA[Burn rate iteration leverage partnership client bootstrapping advisor long tail market metrics startup incubator branding mass market.  Infographic success growth hacking traction startup pitch twitter hackathon.<div><a href="https://intelligentmobility.bike/intelligent-mobility-at-the-ii-congress-of-the-international-network-of-michelin-cities/?lang=en" class="exp-read-more exp-read-more-underlined">Read More</a></div>]]></description>
 								<content:encoded><![CDATA[<p><div  class="tatsu-fu9k1fz1h152a77r tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"97px 0px 90px 0px"}' data-padding-top='97px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-fu9k1fz1na76yjia" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-fu9k1fz1u2eamdb2"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-inline-text clearfix tatsu-fu9k1fz1yt2dn0co   " ><style>.tatsu-fu9k1fz1yt2dn0co .tatsu-inline-text-inner{width: 100%;text-align: left;}</style><div class="tatsu-inline-text-inner tatsu-align-center"></p>
 <p class="MsoNormal">Intelligent Parking has been one of the companies invited to show its opinion in the III Congress of the International network of Michelin Cities that turned the capital of Alava into the world capital of sustainability.</p>
 <p class="MsoNormal">30 cities, 16 mayors and more than 120 participants from 4 different continents participated in an event that aroused great interest. The central theme of the event was the construction of sustainable cities of the future.</p>

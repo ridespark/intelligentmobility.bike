@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
 	<title>
 	Comments on: Electric bicycles for cruisers in Valencia	</title>
-	<atom:link href="http://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/feed/?lang=en" rel="self" type="application/rss+xml" />
-	<link>http://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/?lang=en</link>
+	<atom:link href="https://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/feed/?lang=en" rel="self" type="application/rss+xml" />
+	<link>https://intelligentmobility.bike/electric-bicycles-for-cruisers-in-valencia/?lang=en</link>
 	<description>Movilidad sostenible</description>
 	<lastBuildDate>Fri, 04 Oct 2019 16:32:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
