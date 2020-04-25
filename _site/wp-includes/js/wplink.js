@@ -197,7 +197,7 @@
 				rivers.recent.ajax();
 			}
 
-			correctedURL = inputs.url.val().replace( /^http:\/\//, '' );
+			correctedURL = inputs.url.val().replace( /^https:\/\//, '' );
 		},
 
 		hasSelectedText: function( linkNode ) {
